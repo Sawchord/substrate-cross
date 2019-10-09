@@ -1,0 +1,2 @@
+[target.armv7-unknown-linux-gnueabihf]
+image = "sawchord/substrate-cross:armv7-unknown-linux-gnueabihf"
